@@ -1,0 +1,72 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls?state=all
+[
+  {
+    "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10547",
+    "id": 2038471928,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10547",
+    "diff_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10547.diff",
+    "patch_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/10547.patch",
+    "issue_url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/issues/10547",
+    "number": 10547,
+    "state": "closed",
+    "locked": false,
+    "title": "Fix typo in README.md",
+    "user": {
+      "login": "mudasirunar",
+      "id": 124304819,
+      "avatar_url": "https://avatars.githubusercontent.com/u/124304819?v=4",
+      "html_url": "https://github.com/mudasirunar",
+      "type": "User"
+    },
+    "body": "Fix typo in README.md",
+    "created_at": "2026-08-24T19:00:00Z",
+    "updated_at": "2026-08-24T19:01:00Z",
+    "closed_at": "2026-08-24T19:01:00Z",
+    "merged_at": null,
+    "head": {
+      "label": "mudasirunar:bug-fix-revert",
+      "ref": "bug-fix-revert",
+      "sha": "9127ea345b128917823abce",
+      "user": {
+        "login": "mudasirunar",
+        "id": 124304819,
+        "type": "User"
+      },
+      "repo": {
+        "id": 1345017299,
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "mudasirunar/mcino-Introduction-to-Git-and-GitHub",
+        "private": false,
+        "owner": {
+          "login": "mudasirunar",
+          "id": 124304819,
+          "type": "User"
+        },
+        "html_url": "https://github.com/mudasirunar/mcino-Introduction-to-Git-and-GitHub",
+        "fork": true
+      }
+    },
+    "base": {
+      "label": "ibm-developer-skills-network:main",
+      "ref": "main",
+      "sha": "ad95b0abe521c61effc692e83d5babd5fbf25910",
+      "user": {
+        "login": "ibm-developer-skills-network",
+        "id": 70551872,
+        "type": "Organization"
+      },
+      "repo": {
+        "id": 292080753,
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+        "private": false,
+        "owner": {
+          "login": "ibm-developer-skills-network",
+          "id": 70551872,
+          "type": "Organization"
+        },
+        "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
